@@ -23,6 +23,7 @@ Teknologi yang Digunakan:
 5.NLTK/Spacy: Untuk pemrosesan bahasa alami (NLP) tambahan seperti tokenisasi dan analisis sentimen.
 
 Cara Menggunakan:
+
 1 .Clone repositori ini ke lokal mesin Anda.
 
 2.Install semua dependensi yang diperlukan menggunakan pip install -r requirements.txt.
