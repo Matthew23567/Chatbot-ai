@@ -1,33 +1,33 @@
 Chatbot Kesehatan Mental ini adalah proyek inovatif yang bertujuan untuk memberikan dukungan emosional dan psikologis kepada pengguna melalui interaksi berbasis teks. Chatbot ini dibangun menggunakan model T5 (Text-To-Text Transfer Transformer), sebuah model transformer canggih yang mampu memahami dan menghasilkan teks dengan konteks yang relevan. Proyek ini dirancang untuk membantu individu yang mungkin mengalami stres, kecemasan, atau masalah kesehatan mental lainnya dengan memberikan respons yang empatik, informatif, dan mendukung.
 
 Fitur Utama:
-Respons Empatik: Chatbot dilatih untuk memberikan respons yang memahami perasaan pengguna, memberikan dukungan emosional, dan menawarkan saran yang bermanfaat.
+1.Respons Empatik: Chatbot dilatih untuk memberikan respons yang memahami perasaan pengguna, memberikan dukungan emosional, dan menawarkan saran yang bermanfaat.
 
-Interaksi Natural: Menggunakan model T5, chatbot mampu memahami konteks percakapan dan memberikan respons yang relevan dan alami.
+2.Interaksi Natural: Menggunakan model T5, chatbot mampu memahami konteks percakapan dan memberikan respons yang relevan dan alami.
 
-Sumber Daya Kesehatan Mental: Chatbot dapat memberikan rekomendasi artikel, video, atau sumber daya lainnya yang relevan dengan masalah yang dihadapi pengguna.
+3.Sumber Daya Kesehatan Mental: Chatbot dapat memberikan rekomendasi artikel, video, atau sumber daya lainnya yang relevan dengan masalah yang dihadapi pengguna.
 
-Privasi dan Keamanan: Semua interaksi dengan chatbot dijaga kerahasiaannya, memastikan pengguna merasa aman untuk berbicara terbuka.
+4.Privasi dan Keamanan: Semua interaksi dengan chatbot dijaga kerahasiaannya, memastikan pengguna merasa aman untuk berbicara terbuka.
 
 Teknologi yang Digunakan:
-Model T5: Model transformer yang digunakan untuk memahami dan menghasilkan teks.
+1.Model T5: Model transformer yang digunakan untuk memahami dan menghasilkan teks.
 
-Python: Bahasa pemrograman utama untuk pengembangan chatbot.
+2.Python: Bahasa pemrograman utama untuk pengembangan chatbot.
 
-Hugging Face Transformers: Library yang digunakan untuk mengimplementasikan model T5.
+3.Hugging Face Transformers: Library yang digunakan untuk mengimplementasikan model T5.
 
-Flask/Django: Framework web untuk membuat antarmuka pengguna dan API.
+4.Flask/Django: Framework web untuk membuat antarmuka pengguna dan API.
 
-NLTK/Spacy: Untuk pemrosesan bahasa alami (NLP) tambahan seperti tokenisasi dan analisis sentimen.
+5.NLTK/Spacy: Untuk pemrosesan bahasa alami (NLP) tambahan seperti tokenisasi dan analisis sentimen.
 
 Cara Menggunakan:
-Clone repositori ini ke lokal mesin Anda.
+1 .Clone repositori ini ke lokal mesin Anda.
 
-Install semua dependensi yang diperlukan menggunakan pip install -r requirements.txt.
+2.Install semua dependensi yang diperlukan menggunakan pip install -r requirements.txt.
 
-Jalankan aplikasi menggunakan perintah python app.py.
+3.Jalankan aplikasi menggunakan perintah python app.py.
 
-Buka browser dan akses http://localhost:5000 untuk mulai berinteraksi dengan chatbot.
+4.Buka browser dan akses http://localhost:5000 untuk mulai berinteraksi dengan chatbot.
 
 Kontribusi:
 Kami sangat terbuka untuk kontribusi dari komunitas! Jika Anda tertarik untuk berkontribusi, silakan buka issue atau ajukan pull request. Kami sangat menghargai segala bentuk kontribusi, baik itu dalam bentuk kode, dokumentasi, atau ide-ide baru.
