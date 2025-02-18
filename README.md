@@ -11,6 +11,7 @@ Fitur Utama:
 4.Privasi dan Keamanan: Semua interaksi dengan chatbot dijaga kerahasiaannya, memastikan pengguna merasa aman untuk berbicara terbuka.
 
 Teknologi yang Digunakan:
+
 1.Model T5: Model transformer yang digunakan untuk memahami dan menghasilkan teks.
 
 2.Python: Bahasa pemrograman utama untuk pengembangan chatbot.
