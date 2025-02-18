@@ -1,6 +1,7 @@
 Chatbot Kesehatan Mental ini adalah proyek inovatif yang bertujuan untuk memberikan dukungan emosional dan psikologis kepada pengguna melalui interaksi berbasis teks. Chatbot ini dibangun menggunakan model T5 (Text-To-Text Transfer Transformer), sebuah model transformer canggih yang mampu memahami dan menghasilkan teks dengan konteks yang relevan. Proyek ini dirancang untuk membantu individu yang mungkin mengalami stres, kecemasan, atau masalah kesehatan mental lainnya dengan memberikan respons yang empatik, informatif, dan mendukung.
 
 Fitur Utama:
+
 1.Respons Empatik: Chatbot dilatih untuk memberikan respons yang memahami perasaan pengguna, memberikan dukungan emosional, dan menawarkan saran yang bermanfaat.
 
 2.Interaksi Natural: Menggunakan model T5, chatbot mampu memahami konteks percakapan dan memberikan respons yang relevan dan alami.
